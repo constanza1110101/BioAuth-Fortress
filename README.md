@@ -85,9 +85,9 @@ Push to the branch (git push origin feature/feature-name).
 Create a new Pull Request.
 
 Contact
-For questions or feedback, please contact us at [your-email@example.com].
+For questions or feedback, please contact us at bashconstanza@proton.me.
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by constanza1110101
 
 markdown
 Copiar código
